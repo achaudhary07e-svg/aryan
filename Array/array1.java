@@ -11,5 +11,6 @@ public class array1 {
         for (i=0;i<7;i++){
             System.out.println("The "+ i +" Element is "+ ar[i]);
         }
+        sc.close();
     }
 }
