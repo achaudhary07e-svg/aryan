@@ -26,5 +26,6 @@ public class loop19 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

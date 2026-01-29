@@ -12,5 +12,6 @@ public class loop7 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

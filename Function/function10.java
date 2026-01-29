@@ -22,10 +22,11 @@ public class function10 {
         System.out.println("The total positives are"+ positivecount);
         System.out.println("The total negatives are "+ negative);
         System.out.println("The total zeroes are "+ zero );
+     sc.close();
     }
     public static void main(String[] args) {
        
        number();
-
+    
     }
 }

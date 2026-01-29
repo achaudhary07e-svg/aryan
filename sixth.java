@@ -22,6 +22,6 @@ public class sixth {
         {
             System.out.println("A is the Greatest number  ");
         }
-        
+        sc.close();
     }
 }

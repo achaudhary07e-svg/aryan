@@ -8,5 +8,6 @@ public class loop14 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

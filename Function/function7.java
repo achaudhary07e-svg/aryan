@@ -15,5 +15,6 @@ public class function7 {
         System.out.print("Enter  the second number = ");
         int b = sc.nextInt();
         greater(a, b);
+        sc.close();
     }
 }

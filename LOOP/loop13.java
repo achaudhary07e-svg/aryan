@@ -9,5 +9,6 @@ public class loop13 {
             System.out.println();
 
         }
+        sc.close();
     }
 }

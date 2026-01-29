@@ -14,6 +14,6 @@ class Secondclass{
         System.out.println(age);
         System.out.print("The marks of the student is ");
         System.out.println(marks);
-
+sc.close();
     }
 }

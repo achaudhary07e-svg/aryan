@@ -32,5 +32,6 @@ public static void main(String[]args){
         break; 
         default: System.out.println("Aukat me bhen ke land");
     }
+    sc.close();
 }    
 }

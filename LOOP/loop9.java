@@ -8,7 +8,7 @@ public class loop9 {
         }
         System.out.println();
     }
-
+sc.close();
     }
     
 }

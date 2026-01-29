@@ -1,9 +1,9 @@
 import java.util.*;
-public class firstclass {
+public class aryan {
     public static void main(){
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter the number to show its table");
-        int n=sc nextInt();
+        int n=sc.nextInt();
         System.out.println(n*1);
         System.out.println(n*2);
         System.out.println(n*3);
@@ -14,6 +14,7 @@ public class firstclass {
         System.out.println(n*8);
         System.out.println(n*9);
         System.out.println(n*10);
+        sc.close();
     }
     
 }

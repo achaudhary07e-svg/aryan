@@ -12,5 +12,7 @@ public class function2 {
     System.out.println("Enter the second number " );
     int b = sc.nextInt();
     product(a, b);
+    sc.close();
    }
+
 }

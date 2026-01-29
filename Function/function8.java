@@ -10,5 +10,6 @@ public class function8 {
         System.out.println("Enter the radius of the circle ");
         int r = sc.nextInt();
         circumference(r);
+        sc.close();
     }
 }

@@ -15,5 +15,6 @@ public class function6 {
         System.out.println("Enter the number to find the sum of all odd numbers ");
         int n = sc.nextInt();
         takeNumber(n);
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class function9 {
             System.out.println("Enter your age ");
             int age = sc.nextInt();
             ageEligibility(age);
+            sc.close();
         }
 }

@@ -20,7 +20,7 @@ public class loop5 {
             }
         while (n==1);
             
-        
+        sc.close();
         }
 
     }

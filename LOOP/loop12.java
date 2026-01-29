@@ -16,5 +16,6 @@ public class loop12 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

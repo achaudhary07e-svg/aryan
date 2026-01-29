@@ -10,5 +10,6 @@ public class loop3 {
                 System.out.println(i);
             }
         }
+        sc.close();
     }
 }

@@ -7,5 +7,6 @@ public class Thirdclass {
     double a=3.14*r*r;
     System.out.println("The area of the circle is ");
     System.out.print(a);
+    sc.close();
 }
 }

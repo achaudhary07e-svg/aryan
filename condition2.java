@@ -19,5 +19,6 @@ public class condition2 {
             default: System.out.println("Invalid operation you have performing or entered the value in wrong way please check it and correct your entered value");
 
         }
+        sc.close();
     }
 }

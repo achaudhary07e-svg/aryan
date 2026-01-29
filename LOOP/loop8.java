@@ -15,5 +15,6 @@ public class loop8 {
             System.out.println();
 
         }
+        sc.close();
     }
 }

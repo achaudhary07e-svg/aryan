@@ -23,6 +23,6 @@ public class loop6 {
        } else {
            System.out.println("This is not a prime number");
        }
-
+sc.close();
     }
 }

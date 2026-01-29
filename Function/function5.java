@@ -13,5 +13,6 @@ public class function5{
         System.out.print("Enter the third number ");
         int c= sc.nextInt();
         average(a, b, c);
+        sc.close();
     }
 }

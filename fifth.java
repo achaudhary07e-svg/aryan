@@ -10,5 +10,6 @@ public class fifth {
         else{
             System.out.print("Number is odd ");
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class function4 {
         System.out.println("Enter the number to find the table of the number");
         int n = sc.nextInt();
         table(n);
+        sc.close();
     }
 }

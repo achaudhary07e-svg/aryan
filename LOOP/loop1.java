@@ -12,6 +12,6 @@ public static void main(String[]args){
 
     }
     System.out.print("The sum of the natural number is "+sum);
-
+sc.close();
 }    
 }

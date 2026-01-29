@@ -11,6 +11,7 @@ public class loop20 {
             }
           System.out.println();
     }  
+    sc.close();
         }
         
 }

@@ -13,5 +13,6 @@ public class condition1 {
             break;
             default: System.out.println("Invalid Choice you have entered");
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class function3 {
         System.out.println("Enter the number to check if it is even or not ");
         int n = sc.nextInt();
         even(n);
+        sc.close();
     }
 }

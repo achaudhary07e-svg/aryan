@@ -15,7 +15,7 @@ public class loop11{
            System.out.println();
        }
 
-    
+    sc.close();
     
         }
     }
