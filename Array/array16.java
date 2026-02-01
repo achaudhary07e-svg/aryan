@@ -1,4 +1,4 @@
-//Write a program to find the sum of all elements in a 2D array.
+// Write a program to add two matrices
 import java.util.*;
 public class array16{
     public static void main(String[] args) {
