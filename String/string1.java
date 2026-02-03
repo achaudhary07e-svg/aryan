@@ -1,3 +1,5 @@
+//Take an array of Strings input from the user
+//  & find the cumulative (combined) length of all those strings.
 import java.util.*;
 public class string1 {
 public static void main(String[] args) {
